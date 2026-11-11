@@ -35,10 +35,10 @@ Saya adalah mahasiswa **Sistem Informasi** di Universitas Pamulang (UNPAM) denga
 
 <div align="center">
   <!-- Kartu Statistik Utama -->
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F17" alt="Fajrin's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alfajrin653&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F17" alt="Fajrin's GitHub stats" width="48%" />
   
   <!-- Kartu Bahasa Pemrograman -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F17" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfajrin653&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F17" alt="Top Languages" width="48%" />
 </div>
 
 ---
@@ -46,7 +46,7 @@ Saya adalah mahasiswa **Sistem Informasi** di Universitas Pamulang (UNPAM) denga
 ### 📫 Mari Terhubung (Let's Connect!)
 
 <div align="center">
-  <a href="https://linkedin.com/in/USERNAME_LINKEDIN_KAMUal-fajrin-621145266" target="_blank">
+  <a href="https://linkedin.com/in/al-fajrin-621145266" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/florreess.u" target="_blank">
